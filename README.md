@@ -8,3 +8,5 @@ Steps taken:
 3. Committed with git commit
 
 Using the example_file.txt for testing git ammend command.
+
+Demonstrating changes being made to the remote repo.
