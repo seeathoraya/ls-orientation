@@ -6,3 +6,5 @@ Steps taken:
 1. Initialize repository with git init
 2. Added .gitconfig, README.md and LICENSE.md with git add -m
 3. Committed with git commit
+
+Using the example_file.txt for testing git ammend command.
